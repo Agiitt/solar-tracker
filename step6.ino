@@ -7,7 +7,7 @@
 // --- KONFIGURASI WIFI & UBIDOTS ---
 const char *WIFI_SSID     = "lida";
 const char *WIFI_PASS     = "nanasmuda";
-const char *UBIDOTS_TOKEN = "BBUS-8jFSRgyzzacIjpMOp4mgzRiMUNzZ9d";
+const char *UBIDOTS_TOKEN = "BBUS";
 const char *DEVICE_LABEL  = "solar-tracker";
 
 // Label Variabel Ubidots
